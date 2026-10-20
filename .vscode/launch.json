@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {"name": "Flutter AI Template", "request": "launch", "type": "dart", "program": "lib/main.dart"},
+    {"name": "Web", "request": "launch", "type": "dart", "deviceId": "chrome", "program": "lib/main.dart"}
+  ]
+}
